@@ -60,7 +60,7 @@ export default {
   },
   env: {
     baseUrl:  process.env.BASE_URL || 'https://nuxt-blog-ca204.firebaseio.com/',
-    fbAPIKey: 'AIzaSyC3axbIb9tmb-h1LwO1hXgH1rnpni_88R4'
+    fbAPIKey: ''
   },
   // router: {
   //   // For setting Vue-Router constructor routes
